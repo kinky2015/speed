@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+     <groupId>com.loy</groupId>
+    <artifactId>speedroot</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <artifactId>s-upm-webapp</artifactId>
+  <packaging>war</packaging>
+  <name>s-upm-webapp Maven Webapp</name>
+  <url>http://maven.apache.org</url>
+  <build>
+    <finalName>s-upm-webapp</finalName>
+  </build>
+</project>
